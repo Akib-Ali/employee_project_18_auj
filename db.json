@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "first_name": "Akibn",
+      "age": "23",
+      "gender": "male",
+      "mobile": "87767676878",
+      "image": "",
+      "department": "IT",
+      "salary": "99999"
+    },
+    {
+      "first_name": "Asha",
+      "age": "56",
+      "gender": "female",
+      "mobile": "9999",
+      "image": "",
+      "department": "",
+      "salary": "",
+      "id": "eA_Kkql"
+    },
+    {
+      "first_name": "Akib",
+      "age": "23",
+      "gender": "mALE",
+      "mobile": "8777",
+      "image": "hhhh",
+      "department": "ttt",
+      "salary": "888888",
+      "id": "p7R9dJx"
+    }
+  ]
+}
